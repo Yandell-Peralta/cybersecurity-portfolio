@@ -42,6 +42,7 @@ Projects will be added as I continue developing my practical cybersecurity skill
 
 * Google Cybersecurity Professional Certificate — In Progress
 * CompTIA Security+ — Planned
+* CompTIA networking+ - Planned
 
 ##  Current Learning
 

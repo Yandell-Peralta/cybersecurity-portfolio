@@ -2,45 +2,40 @@
 
 ## Overview
 
-Completed the TryHackMe "Offensive Security Intro" room as part of my hands-on cybersecurity training.
+Completed the TryHackMe "Offensive Security Intro" room.
 
 This room introduced the fundamentals of offensive security and provided hands-on experience identifying weaknesses in a simulated web application.
 
-## Objectives
-
-- Understand the purpose of offensive security
-- Learn how attackers identify exposed functionality
-- Practice using the command line
-- Use `dirb` to discover hidden web directories
-- Identify a security weakness in a simulated web application
-- Understand how attackers can take advantage of improperly protected functionality
-
-## Tools Used
-
-- Linux Terminal
-- DIRB
-- Web Browser
-- TryHackMe Lab Environment
-
 ## What I Did
 
-### 1. Learned About Offensive Security
+- Learned the basics of offensive security.
+- Worked with the simulated FakeBank web application.
+- Used Linux command-line tools.
+- Used DIRB to discover hidden web directories.
+- Identified an exposed function within the application.
+- Tested the security impact in the authorized TryHackMe environment.
 
-I learned that offensive security involves thinking from an attacker's perspective to identify weaknesses before real attackers can exploit them.
+## What I Learned
 
-The goal is to find vulnerabilities in a controlled and authorized environment so they can be fixed.
+- How attackers can discover hidden web pages.
+- How directory enumeration can reveal exposed resources.
+- Why exposed web functionality can create security risks.
+- The importance of performing security testing only with authorization.
 
-### 2. Worked With a Simulated Web Application
+## Tools
 
-I used the TryHackMe virtual lab environment to interact with a simulated banking application called FakeBank.
+`Linux` `DIRB` `Web Browser` `TryHackMe`
 
-This provided a safe environment to practice security testing without targeting a real system.
+## Skills
 
-### 3. Used DIRB to Discover Hidden Pages
+`Offensive Security` `Web Enumeration` `Web Security` `Linux` `Vulnerability Identification`
 
-I used the Linux terminal and the `dirb` tool to scan the simulated website for hidden directories and pages.
+## Platform
 
-Command used:
+TryHackMe
 
-```bash
-dirb http://fakebank.thm
+## Room
+
+Offensive Security Intro
+
+[View Room](https://tryhackme.com/room/offensivesecurityintro)

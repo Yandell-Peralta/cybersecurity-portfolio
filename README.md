@@ -40,7 +40,12 @@ Projects will be added as I continue developing my practical cybersecurity skill
 
 ##  Certifications
 
-* Google Cybersecurity Professional Certificate — In Progress
+- Google Foundations of Cybersecurity — Completed
+- Google Cybersecurity Professional Certificate — In Progress
+
+[View Certifications](./certifications/certifications.md)
+
+
 * CompTIA Security+ — Planned
 * CompTIA networking+ — Planned
 

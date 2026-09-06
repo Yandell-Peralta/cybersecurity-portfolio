@@ -20,7 +20,7 @@ My goal is to develop the practical skills needed to begin a career in cybersecu
 * Threat Detection
 * Incident Response
 
-## 🧪 Hands-On Labs
+##  Hands-On Labs
 
 ### TryHackMe
 
